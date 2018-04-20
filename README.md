@@ -15,7 +15,7 @@ Create a file called `protect.sh`
 - Change ports for SSH, FTP, etc.
 - Set up a security profile to limit the IP addresses allowed to SSH into the computer
 - Disable unused ports
-- Disable IP
+- Disable IPv6
 - GnuPG
 - Password policies
 - Firewall
