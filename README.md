@@ -25,3 +25,4 @@ Create a file called `protect.sh`
 - Anti-virus
 - Prevent anonymous FTP uploads
 - Rootkit scanner
+- Make sure outside firewall doesn't allow traffic
