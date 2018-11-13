@@ -1,4 +1,4 @@
-# Cyber Patriot CIHSCDC
+# Cyber Patriot
 Notes for cyber patriot and stuff like that.
 
 ## Scripts
